@@ -1,2 +1,2 @@
 # coursJQUERY
-cours Colombbus Query
+cours Colombbus JQuery
